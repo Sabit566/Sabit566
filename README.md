@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ahammad-ullah1412/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahammad-ullah1412/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/ahammad.ullah.1412/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ahammad.ullah.1412/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ahammad-ullah1412" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahammad-ullah1412" height="30" width="40" /></a>
+<a href="https://fb.com/ahammad.ullah.1412" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahammad.ullah.1412" height="30" width="40" /></a>
 <a href="https://discord.gg/sabit_gg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sabit_gg" height="30" width="40" /></a>
 </p>
 
