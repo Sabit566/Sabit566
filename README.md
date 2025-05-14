@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer</h3>
 
 # 💫 About Me:
-I’m currently learning full Stack Web Development, Malware Analysis, Vulnerability Assessment, Data Stracture and Algorithm<br><br>👨‍💻 All of my projects are available at https://shorturl.at/iQJih<br><br>📝 I regularly write articles on https://shorturl.at/zK0NI<br><br>📫 How to reach me sabit.islam566@gmail.com
+I’m currently learning full Stack Web Development, Malware Analysis, Vulnerability Assessment, Data Stracture and Algorithm<br><br>👨‍💻 All of my projects are available at https://shorturl.at/iQJih<br><br>📝 I regularly write articles on https://shorturl.at/zK0NI<br><br>📫 How to reach me sabit.islam566@gmail.com.
 
 
 ## 🌐 Socials:
